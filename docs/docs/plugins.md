@@ -137,3 +137,4 @@ you can place the files in a `src` subfolder and build them to the plugin folder
 * [gatsby-remark-external-links](https://github.com/JLongley/gatsby-remark-external-links)
 * [gatsby-source-workable](https://github.com/tumblbug/gatsby-source-workable)
 * [gatsby-source-google-sheets](https://github.com/brandonmp/gatsby-source-google-sheets)
+* [gatsby-source-prismic](https://github.com/angeloashmore/gatsby-source-prismic)
